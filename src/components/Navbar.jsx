@@ -10,7 +10,7 @@ const Navbar = () => {
   return (
   <nav className='mb-20 flex items-center justify-between py-6'>
     <div className="flex flex-shrink-0 items-center">
-        <img className='mx-2 w-21' src={logo} alt="Logo" />
+        <img className='mx-2 w-20' src={logo} alt="Logo" />
     </div>
     <div className="m-8 flex items-center justify-center gap-4 text-2xl">
         <a href="https://www.linkedin.com/in/aryan-agrawal-677b9b289/"><FaLinkedin className="hover:text-cyan-400 hover:text-3xl"/></a>
